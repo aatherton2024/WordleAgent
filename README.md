@@ -1,5 +1,3 @@
-![screenshot](images/screenshot.png)
-
 ## Wordle
 
 This implementation of a Wordle Agent comes with an example agent RandomAgent. To see RandomAgent in action go to the initialize_agent method
